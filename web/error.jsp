@@ -11,6 +11,6 @@
     <title></title>
 </head>
 <body>
-<h1>Error: no character</h1>
+<h1>Error: no nnn</h1>
 </body>
 </html>
