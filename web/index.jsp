@@ -13,7 +13,7 @@
 <body>
 <form action="counter" method="post">
   <textarea name="text"></textarea><br/>
-  <input type="submit" name="submit" value="Dem"/>
+  <input type="submit" name="submit" value="Dem"/><br/>
 </form>
 </body>
 </html>
