@@ -9,7 +9,7 @@
 <%@taglib prefix="s" uri="/struts-tags" %>
 <html>
 <head>
-    <title></title>
+    <title>Ket qua</title>
 </head>
 <body>
 <s:property value="count"/>
